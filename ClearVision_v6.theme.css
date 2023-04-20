@@ -65,8 +65,8 @@
   --dnd-color: #FFB2B2;
   --streaming-color: #B68CFF;
   --offline-color: #999999;
-  --main-font: Roboto;
-  --code-font: Roboto;
+  --main-font: Gg sans;
+  --code-font: Gg sans;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
