@@ -9,6 +9,8 @@
  * @BDEditor Clear Vision
 */
 
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
@@ -63,8 +65,8 @@
   --dnd-color: #FFB2B2;
   --streaming-color: #B68CFF;
   --offline-color: #999999;
-  --main-font: Whitney;
-  --code-font: Consolas;
+  --main-font: Roboto;
+  --code-font: Roboto;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
@@ -86,4 +88,5 @@
 }
 
 /* Any custom CSS below here */
+
 
