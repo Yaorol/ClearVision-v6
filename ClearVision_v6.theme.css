@@ -1,5 +1,5 @@
 /**
- * @name Kuromi
+ * @name kuromi
  * @author ClearVision Team
  * @version 6.3.0
  * @description Highly customizable and beautiful theme for BetterDiscord.
@@ -12,13 +12,13 @@
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
-  --main-color: #A16FC2;
+  --main-color: #5E3D73;
   --hover-color: #880BC1;
-  --success-color: #78E584;
-  --danger-color: #D97567;
-  --url-color: #D58F8F;
+  --success-color: #2E9539;
+  --danger-color: #D13924;
+  --url-color: #CB85FF;
   --background-image: url('https://i.imgur.com/dXUjFsC.gif');
-  --background-shading: 98%;
+  --background-shading: 100%;
   --background-position: center;
   --background-size: cover;
   --background-repeat: no-repeat;
@@ -29,7 +29,7 @@
   --background-grayscale: 0%;
   --background-invert: 0%;
   --background-blur: 1px;
-  --background-overlay: rgb(19,12,24,0.6);
+  --background-overlay: rgb(0,0,0,0.73);
   --user-popout-image: url('https://i.imgur.com/wdm5cHE.gif');
   --user-popout-position: center;
   --user-popout-size: cover;
@@ -54,11 +54,11 @@
   --user-modal-blur: 3px;
   --home-icon: url('https://clearvision.github.io/icons/discord.svg');
   --home-position: center;
-  --home-size: 52px;
-  --channel-unread: #E81BFF;
-  --channel-color: rgb(172,124,230,0.89);
+  --home-size: 40px;
+  --channel-unread: #D55EE2;
+  --channel-color: rgb(123,45,163,1);
   --muted-color: rgb(99,75,127,1);
-  --online-color: #CEFFDF;
+  --online-color: #99FFBC;
   --idle-color: #FFDEA8;
   --dnd-color: #FFB2B2;
   --streaming-color: #B68CFF;
@@ -86,4 +86,5 @@
 }
 
 /* Any custom CSS below here */
+
 
